@@ -5,7 +5,6 @@
 - Raphael Lahiry (https://github.com/Lahiry)
 - Rodrigo Coelho (https://github.com/rodrigogcoelhoo)
 
-
 ## Tecnologias utilizadas no projeto:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,3 +16,5 @@
 ### Conceito C :heavy_check_mark::heavy_check_mark:
 
 ### Conceito B :heavy_check_mark::heavy_check_mark:
+
+### Conceito A :heavy_check_mark::heavy_check_mark:
